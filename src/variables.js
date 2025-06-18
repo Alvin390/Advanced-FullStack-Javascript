@@ -39,3 +39,21 @@ console.log("The remainder of",num1, "and", num2, "is", num1 % num2)
 const year=new Date().getFullYear()
 console.log("The year we are in is",year)
 
+const date= new Date().setFullYear(2025,7,22)
+
+let counter=0
+
+console.log(counter)
+
+counter= counter + + 2
+
+console.log(counter)
+
+counter= counter - 2
+
+console.log(counter)
+
+let i = 0
+
+
+
