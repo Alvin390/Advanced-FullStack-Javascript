@@ -15,3 +15,18 @@ console.log (name);
 
 let friend= "Kevin"
 console.log (friend);
+
+let my_school = "eMobilis";
+
+console.log ("I like Going to ", my_school, "In order to learn");
+
+console.log(num1 + num2 + num3)
+
+console.log(num1*num2)
+
+console.log(num1 % num2)
+
+console.log(num1 / num2)
+
+console.log(num1 - num2)
+
