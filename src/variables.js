@@ -30,3 +30,12 @@ console.log(num1 / num2)
 
 console.log(num1 - num2)
 
+console.log("The sum of",num1, "and", num2, "is", num1 + num2)
+console.log("The difference of",num1, "and", num2, "is", num1 - num2)
+console.log("The product of",num1, "and", num2, "is", num1 * num2)
+console.log("The quotient of",num1, "and", num2, "is", num1 / num2)
+console.log("The remainder of",num1, "and", num2, "is", num1 % num2)
+
+const year=new Date().getFullYear()
+console.log("The year we are in is",year)
+
