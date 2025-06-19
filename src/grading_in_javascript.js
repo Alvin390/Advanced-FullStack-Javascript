@@ -21,4 +21,4 @@ function grading(grade){
 
 }
 
-grading(-5)
+grading(4)
